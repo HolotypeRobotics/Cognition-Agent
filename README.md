@@ -1,2 +1,2 @@
 # Cognition-Agent
-The official implimentation of the Cogition library
+An implimentation of the Cogition library
